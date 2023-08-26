@@ -1,0 +1,56 @@
+SampleID,Locality,Ocean,Class,Order,Family,Genus,species,taxonomy,rank,GenBank#,longitude,latitude
+5Nem1335D03,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,santacruzensis,Ototyphlonemertes_santacruzensis,species,xxxxxx,-88.082,16.802
+5Nem1335H04,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,santacruzensis,Ototyphlonemertes_santacruzensis,species,xxxxxx,-88.082,16.803
+5NemJLND05,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,lactea,Ototyphlonemertes_lactea,species,xxxxxx,-88.082,16.803
+5NemJLND06,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,erneba,Ototyphlonemertes_erneba,species,xxxxxx,-88.082,16.803
+5NemJLNE05,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,lactea,Ototyphlonemertes_lactea,species,xxxxxx,-88.082,16.803
+5NemJLNE06,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,erneba,Ototyphlonemertes_erneba,species,xxxxxx,-88.082,16.803
+5NemJLNF03,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,santacruzensis,Ototyphlonemertes_santacruzensis,species,xxxxxx,-88.082,16.802
+5NemJLNF06,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,lactea,Ototyphlonemertes_lactea,species,xxxxxx,-88.082,16.803
+5NemJLNG03,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,santacruzensis,Ototyphlonemertes_santacruzensis,species,xxxxxx,-88.082,16.802
+5NemJLNG06,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,macintoshi,Ototyphlonemertes_macintoshi,species,xxxxxx,-88.082,16.803
+5NemJLNA02,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,santacruzensis,Ototyphlonemertes_santacruzensis,species,xxxxxx,-88.079,16.801
+5NemJLNB02,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,santacruzensis,Ototyphlonemertes_santacruzensis,species,xxxxxx,-88.079,16.802
+5NemJLNG01,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,santacruzensis,Ototyphlonemertes_santacruzensis,species,xxxxxx,-88.079,16.802
+5NemJLNH01,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,santacruzensis,Ototyphlonemertes_santacruzensis,species,xxxxxx,-88.079,16.802
+5NemJLNE02,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,lactea,Ototyphlonemertes_lactea,species,xxxxxx,-88.078,16.804
+5NemJLNG02,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,lactea,Ototyphlonemertes_lactea,species,xxxxxx,-88.078,16.804
+5NemJLNA09,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,santacruzensis,Ototyphlonemertes_santacruzensis,species,xxxxxx,-88.077,16.802
+5NemJLNB08,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,lactea,Ototyphlonemertes_lactea,species,xxxxxx,-88.077,16.802
+5NemJLNB09,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,macintoshi,Ototyphlonemertes_macintoshi,species,xxxxxx,-88.077,16.802
+5NemJLND02,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,macintoshi,Ototyphlonemertes_macintoshi,species,xxxxxx,-88.077,16.804
+5NemJLND11,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,santacruzensis,Ototyphlonemertes_santacruzensis,species,xxxxxx,-88.077,16.802
+5NemJLNE07,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,lactea,Ototyphlonemertes_lactea,species,xxxxxx,-88.077,16.803
+5NemJLNE08,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,lactea,Ototyphlonemertes_lactea,species,xxxxxx,-88.077,16.803
+5NemJLNF02,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,macintoshi,Ototyphlonemertes_macintoshi,species,xxxxxx,-88.077,16.803
+5NemJLNF07,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,lactea,Ototyphlonemertes_lactea,species,xxxxxx,-88.077,16.803
+5NemJLNF08,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,macintoshi,Ototyphlonemertes_macintoshi,species,xxxxxx,-88.077,16.803
+5NemJLNA08,Belize,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,lactea,Ototyphlonemertes_lactea,species,xxxxxx,-88.076,16.802
+6NemgenOtotyphA01,Bocas del Toro,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,santacruzensis,Ototyphlonemertes_santacruzensis,species,xxxxxx,-82.3,9.458
+6NemgenAnnuloD02,Bocas del Toro,Tropical West Atlantic,Paleonemertea,Archinemertea ,Cephalothricidae,Cephalothrix,sp,Cephalothrix_sp,genus,xxxxxx,-82.175,9.345
+6NemgenAnnuloE02,Bocas del Toro,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Tetrastemmatidae ,Annulonemertes,sp,Annulonemertes_sp,genus,xxxxxx,-82.175,9.345
+6NemgenAnnuloB03,Bocas del Toro,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Tetrastemmatidae ,Annulonemertes,sp,Annulonemertes_sp,genus,xxxxxx,-82.172,9.35
+6NemgenCephaloD07,Bocas del Toro,Tropical West Atlantic,Paleonemertea,Archinemertea ,Cephalothricidae,Cephalothrix,sp,Cephalothrix_sp,genus,xxxxxx,-82.172,9.351
+6NemgenOtotyphH03,Bocas del Toro,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,santacruzensis,Ototyphlonemertes_santacruzensis,species,xxxxxx,-82.172,9.351
+6NemgenCephaloA08,Bocas del Toro,Tropical West Atlantic,Paleonemertea,Archinemertea ,Cephalothricidae,Cephalothrix,sp,Cephalothrix_sp,genus,xxxxxx,-82.168,9.352
+6NemgenHubrechtellaC05,Bocas del Toro,Tropical West Atlantic,Pilidiophora ,Hubrechtiiformes,Hubrechtidae,Hubrechtella,sp,Hubrechtella_sp,genus,xxxxxx,-82.168,9.347
+6NemgenOtotyphC07,Bocas del Toro,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,erneba,Ototyphlonemertes_erneba,species,xxxxxx,-82.168,9.352
+6NemgenOtotyphE08,Bocas del Toro,Tropical West Atlantic,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,erneba,Ototyphlonemertes_erneba,species,xxxxxx,-82.168,9.352
+8NemgenPoseidonH04,Panama-Achotines,Tropical East Pacific,Hoplonemertea ,Monostilifera,Amphiporidae,Poseidonemertes,sp,Poseidonemertes_sp,genus,xxxxxx,-80.001,7.621
+7NemPanC07,Panama-Naos,Tropical East Pacific,Paleonemertea,Archinemertea ,Cephalothricidae,Cephalothrix,sp,Cephalothrix_sp,genus,xxxxxx,-79.555,8.8
+7NemPanD01,Panama-Naos,Tropical East Pacific,Hoplonemertea ,Monostilifera ,Acteonemertidae,Leptonemertes ,sp,Leptonemertes _sp,genus,xxxxxx,-79.554,8.801
+7NemPanD04,Panama-Naos,Tropical East Pacific,Hoplonemertea ,Monostilifera,NA,NA,NA,NA,none,xxxxxx,-79.554,8.801
+7NemPanF06,Panama-Naos,Tropical East Pacific,Hoplonemertea ,Monostilifera ,Acteonemertidae,Leptonemertes ,sp,Leptonemertes _sp,genus,xxxxxx,-79.554,8.801
+7NemPanC09,Panama-Naos,Tropical East Pacific,Paleonemertea,Archinemertea ,Cephalothricidae,Cephalothrix,sp,Cephalothrix_sp,genus,xxxxxx,-79.537,8.782
+7NemPanC11,Panama-Naos,Tropical East Pacific,Pilidiophora ,Hubrechtiiformes ,Hubrechtidae,Hubrechtella,sp,Hubrechtella_sp,genus,xxxxxx,-79.537,8.782
+7NemPanA01,Panama-Naos,Tropical East Pacific,Paleonemertea,Archinemertea ,Cephalothricidae,Cephalothrix,sp,Cephalothrix_sp,genus,xxxxxx,-79.531,8.916
+7NemPanA11,Panama-Naos,Tropical East Pacific,Pilidiophora,Heteronemertea,Lineidae,Micrura,sp,Micrura_sp,genus,xxxxxx,-79.531,8.916
+7NemPanB03,Panama-Naos,Tropical East Pacific,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,duplex,Ototyphlonemertes_duplex,species,xxxxxx,-79.531,8.916
+7NemPanB04,Panama-Naos,Tropical East Pacific,Paleonemertea,Archinemertea ,Cephalothricidae,Cephalothrix,sp,Cephalothrix_sp,genus,xxxxxx,-79.531,8.916
+7NemPanB05,Panama-Naos,Tropical East Pacific,Pilidiophora ,Hubrechtiiformes,Hubrechtidae,Hubrechtella,sp,Hubrechtella_sp,genus,xxxxxx,-79.531,8.916
+7NemPanB06,Panama-Naos,Tropical East Pacific,Pilidiophora,Heteronemertea,Lineidae,Micrura,sp,Micrura_sp,genus,xxxxxx,-79.531,8.916
+7NemPanB07,Panama-Naos,Tropical East Pacific,Pilidiophora,Heteronemertea,Lineidae,Micrura,sp,Micrura_sp,genus,xxxxxx,-79.531,8.916
+7NemPanB08,Panama-Naos,Tropical East Pacific,Pilidiophora,Heteronemertea,Lineidae,Micrura,sp,Micrura_sp,genus,xxxxxx,-79.531,8.916
+7NemPanB09,Panama-Naos,Tropical East Pacific,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,cirrula,Ototyphlonemertes_cirrula,species,xxxxxx,-79.531,8.916
+7NemPanD09,Panama-Naos,Tropical East Pacific,Paleonemertea,Archinemertea ,Cephalothricidae,Cephalothrix,sp,Cephalothrix_sp,genus,xxxxxx,-79.126,8.388
+7NemPanE06,Panama-Naos,Tropical East Pacific,Hoplonemertea ,Monostilifera,Ototyphlonemertidae,Ototyphlonemertes,sp,Ototyphlonemertes_sp,genus,xxxxxx,-79.061,8.673
